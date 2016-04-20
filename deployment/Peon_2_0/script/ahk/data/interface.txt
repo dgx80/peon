@@ -1,0 +1,5 @@
+S,Shortcuts
+W,WebLink
+P,Peon
+F1,Change profil
+F2,Change User

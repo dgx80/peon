@@ -1,0 +1,5 @@
+c,Cmd
+s,System32
+u,Users
+f10,delete
+f11,add

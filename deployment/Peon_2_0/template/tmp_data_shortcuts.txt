@@ -1,0 +1,2 @@
+f10;delete;cmd:shortcutFolder.delete
+f11;add;cmd:shortcutFolder.add

@@ -1,0 +1,7 @@
+all
+az
+bobo
+c
+coucou
+toutou
+x

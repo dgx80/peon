@@ -1,0 +1,12 @@
+S,Shortcuts
+W,WebLink
+P,Peon
+C,Copy
+V,Paste
+<user1>
+<user2>
+<user3>
+<user4>
+<user5>
+F1,Change profil
+F2,Change User

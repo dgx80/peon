@@ -1,0 +1,2 @@
+f10;delete;cmd:weblink.delete
+f11;add;cmd:weblink.add

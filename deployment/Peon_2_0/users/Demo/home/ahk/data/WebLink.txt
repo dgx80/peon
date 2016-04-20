@@ -1,0 +1,13 @@
+1,Twitter
+3,L'apprenti informaticien
+4,Grooveshark
+f,Facebook
+g,google search
+h,Hotmail
+m,Maps
+p,Peon
+t,Translate
+w,Wikipedia
+y,Youtube
+f10,delete
+f11,add

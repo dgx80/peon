@@ -1,0 +1,5 @@
+S,Advanced settings
+U,Users
+P,Profil
+1,Update script
+A,about

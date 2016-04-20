@@ -1,0 +1,3 @@
+A,Add profile
+C,Change profile
+D,Delete profile

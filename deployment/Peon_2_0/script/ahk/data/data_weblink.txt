@@ -1,0 +1,13 @@
+1;Twitter;https://twitter.com/
+3;L'apprenti informaticien;https://sites.google.com/site/lapprentiinformaticien/
+4;Grooveshark;http://grooveshark.com
+f;Facebook;www.facebook.com
+g;google search;www.google.ca
+h;Hotmail;www.hotmail.com
+m;Maps;http://maps.google.ca/maps?hl=fr&tab=ml
+p;Peon;www.mypeon.net
+t;Translate;http://translate.google.fr/
+w;Wikipedia;http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal
+y;Youtube;http://www.youtube.com/?gl=FR&hl=fr
+f10;delete;cmd:weblink.delete
+f11;add;cmd:weblink.add

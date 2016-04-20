@@ -1,0 +1,7 @@
+S,Shortcuts
+W,WebLink
+P,Peon
+C,Copy
+V,Paste
+F1,Change profil
+F2,Change User

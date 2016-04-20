@@ -1,0 +1,12 @@
+S,Shortcuts
+W,WebLink
+P,Peon
+C,Copy
+V,Paste
+1,Demo:toto
+2,Demo:vo
+3,Demo:xc
+4,Demo:cv
+5,Demo:coucou
+F1,Change profil
+F2,Change User

@@ -1,0 +1,3 @@
+Q;Quick Add;cmd:clipboard.quickadd
+F10;Delete;cmd:clipboard.delete
+F11;Add;cmd:clipboard.add
